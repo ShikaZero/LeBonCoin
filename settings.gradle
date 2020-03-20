@@ -1,0 +1,3 @@
+rootProject.name='LeBonCoint'
+include ':app'
+include ':core'
